@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+  --font-poppins: Poppins;
+  --font-open-sans: "Open Sans";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+  --font-size-mid: 17px;
+  --font-size-base: 16px;
+  --font-size-10xl: 29px;
+  --font-size-29xl: 48px;
+  --font-size-26xl: 45px;
+  --font-size-24xl: 43px;
+  --font-size-xl: 20px;
+  --font-size-2xs: 11px;
+
+  /* Colors */
+  --color-whitesmoke-100: #f1f1f1;
+  --color-whitesmoke-200: #ecedf1;
+  --color-white: #fff;
+  --color-gray-100: #7d848a;
+  --color-gray-200: #311919;
+  --color-gray-300: #060a0d;
+  --color-darkslategray-100: #3e4b59;
+  --color-darkslategray-200: #434243;
+  --color-darkslategray-300: #424242;
+  --color-darkslategray-400: #32404e;
+  --color-lightskyblue: #64abd3;
+  --color-lightsteelblue: #c0cbe7;
+  --color-black: #000;
+  --color-darkslateblue: #291b4f;
+  --color-slategray-100: #434e6f;
+  --color-lightslategray: #669bb5;
+  --color-lightgray: #d6d6ca;
+
+  /* border radiuses */
+  --br-6xl: 25px;
+  --br-5xs: 8px;
+  --br-5xl: 24px;
+  --br-11xl: 30px;
+  --br-9xl: 28px;
+}

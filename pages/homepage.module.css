@@ -1,0 +1,887 @@
+.rectangle {
+  position: absolute;
+  top: 740px;
+  left: 1109px;
+  width: 300px;
+  height: 38px;
+}
+.aashaIsIndependently,
+.weOnlyAccept,
+.weSpendA {
+  position: absolute;
+  top: 1578px;
+  left: 305px;
+  line-height: 24px;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 304px;
+}
+.aashaIsIndependently,
+.weSpendA {
+  top: 1554px;
+  left: 549px;
+}
+.aashaIsIndependently {
+  top: 1547px;
+  left: 1066px;
+  width: 301px;
+}
+.rectangle1,
+.rectangle2 {
+  position: absolute;
+  top: 768px;
+  left: 1px;
+  background-color: var(--color-gray-200);
+  width: 1200px;
+  height: 1px;
+}
+.rectangle2 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 804px;
+  height: 38px;
+}
+.about,
+.blog,
+.corporate,
+.disaster,
+.learn,
+.waysToGive {
+  position: absolute;
+  top: 1px;
+  left: 18px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 42px;
+}
+.blog,
+.corporate,
+.disaster,
+.learn,
+.waysToGive {
+  left: 174px;
+  width: 38px;
+}
+.blog,
+.corporate,
+.disaster,
+.waysToGive {
+  left: 349px;
+  width: 72px;
+}
+.blog,
+.disaster,
+.waysToGive {
+  left: 559px;
+  width: 58px;
+}
+.blog,
+.waysToGive {
+  left: 754px;
+  width: 35px;
+}
+.waysToGive {
+  left: 902px;
+  width: 91px;
+}
+.navbar {
+  position: absolute;
+  top: 74px;
+  left: 208px;
+  width: 993px;
+  height: 38px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-darkslategray-300);
+}
+.unsplashjuItc1cc0wIcon {
+  position: absolute;
+  top: 112px;
+  left: 0;
+  width: 1220px;
+  height: 691px;
+  object-fit: cover;
+}
+.rectangle3 {
+  position: absolute;
+  top: 273px;
+  left: 578px;
+  border-radius: var(--br-9xl);
+  background-color: var(--color-whitesmoke-100);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+  width: 237px;
+  height: 50px;
+}
+.donateNow,
+.togetherWeCan {
+  position: absolute;
+  top: 285px;
+  left: 639px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 5px;
+  line-height: 26px;
+  color: var(--color-darkslategray-200);
+  text-align: center;
+}
+.togetherWeCan {
+  top: 204px;
+  left: 129px;
+  font-size: var(--font-size-24xl);
+  color: var(--color-whitesmoke-200);
+  display: inline-block;
+  width: 944px;
+  height: 30px;
+}
+.imageIcon {
+  position: absolute;
+  top: 1128px;
+  left: 222px;
+  width: 160px;
+  height: 160px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.nonprofitsAroundThe {
+  position: absolute;
+  top: 1312px;
+  left: 214px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.16px;
+  line-height: 22px;
+  font-family: var(--font-open-sans);
+  color: var(--color-darkslategray-400);
+  text-align: center;
+  display: inline-block;
+  width: 177px;
+}
+.rectangle4,
+.rectangle5 {
+  position: absolute;
+  top: 1535px;
+  left: 473px;
+  background-color: var(--color-lightgray);
+  width: 2.33px;
+  height: 96px;
+}
+.rectangle5 {
+  left: 990px;
+}
+.unsplashCctiwsksgoIcon {
+  position: absolute;
+  top: 2523px;
+  left: 865px;
+  border-radius: var(--br-11xl);
+  width: 400px;
+  height: 575px;
+  object-fit: cover;
+}
+.weSupportImportant {
+  position: absolute;
+  top: 2591px;
+  left: 210px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 1.2px;
+  line-height: 54px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--color-lightslategray);
+  display: inline-block;
+  width: 304px;
+}
+.collaboratingWithPartners {
+  position: absolute;
+  top: 2778px;
+  left: 209px;
+  font-size: var(--font-size-5xl);
+  line-height: 36px;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 352px;
+}
+.rectangle6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-lightsteelblue);
+  width: 243px;
+  height: 48px;
+}
+.browseProjects {
+  position: absolute;
+  top: 12px;
+  left: 48px;
+  letter-spacing: 0.54px;
+  line-height: 24px;
+  display: inline-block;
+  width: 146px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 2983px;
+  left: 209px;
+  width: 243px;
+  height: 48px;
+  color: var(--color-slategray-100);
+}
+.fundingCriticalWork,
+.weDriveLongTerm {
+  position: absolute;
+  left: 845px;
+  display: inline-block;
+}
+.weDriveLongTerm {
+  top: 3261px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 1.2px;
+  line-height: 54px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--color-lightslategray);
+  width: 372px;
+}
+.fundingCriticalWork {
+  top: 3448px;
+  font-size: var(--font-size-5xl);
+  line-height: 36px;
+  color: var(--color-slategray-100);
+  width: 352px;
+}
+.rectangle7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-lightsteelblue);
+  width: 231px;
+  height: 48px;
+}
+.browseProjects1 {
+  position: absolute;
+  top: 12px;
+  left: 44px;
+  letter-spacing: 0.54px;
+  line-height: 24px;
+  display: inline-block;
+  width: 146px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 3653px;
+  left: 845px;
+  width: 231px;
+  height: 48px;
+  color: var(--color-slategray-100);
+}
+.rectangle8 {
+  position: absolute;
+  top: 4184px;
+  left: 1010px;
+  border-radius: var(--br-5xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 168px;
+  height: 61px;
+}
+.donateBitcoinEthereum,
+.partnerAsA,
+.register {
+  position: absolute;
+  top: 3965px;
+  left: 923px;
+  font-size: var(--font-size-10xl);
+  line-height: 39px;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 335px;
+}
+.donateBitcoinEthereum,
+.register {
+  top: 4025px;
+  left: 857px;
+  font-size: var(--font-size-mid);
+  line-height: 28.8px;
+  width: 427px;
+}
+.register {
+  top: 4201px;
+  left: 1032px;
+  font-size: var(--font-size-base);
+  line-height: 27.2px;
+  width: 124px;
+}
+.frameIcon,
+.frameIcon1,
+.frameIcon2 {
+  position: absolute;
+  top: 4687px;
+  left: 1175px;
+  width: 8px;
+  height: 15px;
+  overflow: hidden;
+}
+.frameIcon1,
+.frameIcon2 {
+  left: 1198px;
+  width: 16px;
+  height: 14px;
+}
+.frameIcon2 {
+  top: 4686px;
+  left: 1228px;
+  height: 16px;
+}
+.about1 {
+  position: absolute;
+  top: 4414px;
+  left: 751px;
+  line-height: 27px;
+  display: inline-block;
+  width: 50px;
+}
+.currentFunds {
+  top: 4459px;
+  width: 116px;
+}
+.contact,
+.currentFunds,
+.donate,
+.faqs,
+.impact,
+.partnerships {
+  position: absolute;
+  left: 751px;
+  line-height: 27px;
+  display: inline-block;
+}
+.partnerships {
+  top: 4504px;
+  font-size: var(--font-size-mid);
+  width: 101px;
+}
+.contact,
+.donate,
+.faqs,
+.impact {
+  top: 4549px;
+  width: 56px;
+}
+.contact,
+.donate,
+.faqs {
+  top: 4594px;
+  width: 64px;
+}
+.donate,
+.faqs {
+  top: 4414px;
+  left: 1123px;
+  width: 58px;
+}
+.faqs {
+  top: 4459px;
+  width: 45px;
+}
+.financials,
+.kathmandu,
+.nepal,
+.offPlatformDonations,
+.policiesDisclosures {
+  position: absolute;
+  top: 4504px;
+  left: 1123px;
+  font-size: var(--font-size-mid);
+  line-height: 27px;
+  display: inline-block;
+  width: 78px;
+}
+.kathmandu,
+.nepal,
+.offPlatformDonations,
+.policiesDisclosures {
+  top: 4549px;
+  width: 174px;
+}
+.kathmandu,
+.nepal,
+.offPlatformDonations {
+  top: 4594px;
+  width: 187px;
+}
+.kathmandu,
+.nepal {
+  height: 0.42%;
+  width: 18.75%;
+  top: 96.91%;
+  left: 8.33%;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.42px;
+  line-height: 20px;
+}
+.nepal {
+  width: 15.58%;
+  top: 97.33%;
+}
+.groupIcon,
+.groupIcon1,
+.groupIcon2,
+.groupIcon3,
+.groupIcon4 {
+  position: absolute;
+  height: 0.75%;
+  width: 3.12%;
+  top: 95.76%;
+  right: 88.54%;
+  bottom: 3.49%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon1,
+.groupIcon2,
+.groupIcon3,
+.groupIcon4 {
+  right: 85.38%;
+  left: 11.5%;
+}
+.groupIcon2,
+.groupIcon3,
+.groupIcon4 {
+  height: 0.78%;
+  width: 2.38%;
+  top: 95.75%;
+  right: 82.83%;
+  bottom: 3.48%;
+  left: 14.79%;
+}
+.groupIcon3,
+.groupIcon4 {
+  height: 0.75%;
+  width: 2.6%;
+  top: 95.76%;
+  right: 79.76%;
+  bottom: 3.49%;
+  left: 17.63%;
+}
+.groupIcon4 {
+  width: 3.12%;
+  right: 76.31%;
+  left: 20.57%;
+}
+.clipPathGroup,
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  height: 0.83%;
+  width: 4.92%;
+  top: 95.72%;
+  right: 71.11%;
+  bottom: 3.45%;
+  left: 23.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  height: 0.25%;
+  width: 0.69%;
+  top: 95.75%;
+  right: 71.22%;
+  bottom: 4%;
+  left: 28.08%;
+}
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  height: 0.24%;
+  width: 0.96%;
+  top: 95.96%;
+  right: 73.28%;
+  bottom: 3.8%;
+  left: 25.76%;
+}
+.vectorIcon2,
+.vectorIcon3 {
+  height: 0.25%;
+  width: 0.69%;
+  top: 96.28%;
+  right: 75.22%;
+  bottom: 3.48%;
+  left: 24.09%;
+}
+.vectorIcon3 {
+  height: 0.63%;
+  width: 3.5%;
+  top: 95.83%;
+  right: 71.83%;
+  bottom: 3.54%;
+  left: 24.67%;
+}
+.unsplashjuItc1cc0wIcon2 {
+  position: absolute;
+  top: 112px;
+  left: 0;
+  width: 1491px;
+  height: 691px;
+  object-fit: cover;
+}
+.impact2 {
+  position: absolute;
+  top: 4575px;
+  left: 570px;
+  line-height: 27px;
+  display: inline-block;
+  width: 56px;
+}
+.rectangle28 {
+  position: absolute;
+  top: 1506px;
+  left: 46px;
+  background-color: var(--color-lightslategray);
+  width: 1398px;
+  height: 192px;
+}
+.nonProfits {
+  position: absolute;
+  top: 1px;
+  left: 349px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 83px;
+}
+.aashaConnectsNonprofits,
+.togetherWeCan2 {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+}
+.aashaConnectsNonprofits {
+  top: 876px;
+  left: 331px;
+  font-size: 25px;
+  line-height: 36px;
+  color: #6d6d85;
+  width: 714px;
+}
+.togetherWeCan2 {
+  top: 204px;
+  left: 343px;
+  font-size: var(--font-size-24xl);
+  letter-spacing: 5px;
+  line-height: 26px;
+  color: var(--color-whitesmoke-200);
+  width: 944px;
+  height: 30px;
+}
+.imageIcon4,
+.imageIcon5,
+.imageIcon6 {
+  position: absolute;
+  top: 1152px;
+  left: 626px;
+  width: 160px;
+  height: 160px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.imageIcon5,
+.imageIcon6 {
+  top: 1137px;
+  left: 954px;
+}
+.imageIcon6 {
+  top: 1128px;
+  left: 1282px;
+}
+.peopleLikeYou,
+.projectsHaveThe,
+.yourDonationMakes {
+  position: absolute;
+  font-size: var(--font-size-sm);
+  text-align: center;
+  display: inline-block;
+}
+.peopleLikeYou {
+  top: 1312px;
+  left: 646px;
+  letter-spacing: 0.16px;
+  line-height: 22px;
+  font-family: var(--font-open-sans);
+  color: var(--color-darkslategray-400);
+  width: 175px;
+}
+.projectsHaveThe,
+.yourDonationMakes {
+  width: 178px;
+}
+.projectsHaveThe {
+  top: 1318px;
+  left: 971px;
+  letter-spacing: 0.16px;
+  line-height: 22px;
+  font-family: var(--font-open-sans);
+  color: var(--color-darkslategray-400);
+}
+.yourDonationMakes {
+  top: 1320px;
+  left: 1273px;
+  line-height: 26px;
+  color: var(--color-darkslategray-300);
+}
+.howItWorks,
+.whatWeDo {
+  position: absolute;
+  top: 1067px;
+  left: 569px;
+  font-size: var(--font-size-26xl);
+  letter-spacing: 0.8px;
+  line-height: 36.8px;
+  color: var(--color-gray-300);
+  text-align: center;
+}
+.whatWeDo {
+  top: 1722px;
+  left: 577px;
+}
+.unsplash3pnqqnc7pdeIcon,
+.unsplashCctiwsksgoIcon2,
+.unsplashzvesuuc2weaIcon {
+  position: absolute;
+  top: 1850px;
+  left: 262px;
+  border-radius: var(--br-11xl);
+  width: 400px;
+  height: 575px;
+  object-fit: cover;
+}
+.unsplashCctiwsksgoIcon2,
+.unsplashzvesuuc2weaIcon {
+  top: 2523px;
+  left: 974px;
+}
+.unsplashzvesuuc2weaIcon {
+  top: 3174px;
+  left: 226px;
+}
+.weProvideCrisis {
+  position: absolute;
+  top: 1966px;
+  left: 1066px;
+  font-size: 54px;
+  letter-spacing: 1.2px;
+  line-height: 54px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--color-lightslategray);
+  display: inline-block;
+  width: 379px;
+}
+.quicklyDistributingDonations {
+  position: absolute;
+  top: 2095px;
+  left: 1041px;
+  font-size: var(--font-size-5xl);
+  line-height: 36px;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 350px;
+}
+.rectangle34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-lightsteelblue);
+  width: 202px;
+  height: 48px;
+}
+.browseProjects6 {
+  position: absolute;
+  top: 12px;
+  left: 32px;
+  letter-spacing: 0.54px;
+  line-height: 24px;
+  display: inline-block;
+  width: 138px;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 2268px;
+  left: 1063px;
+  width: 202px;
+  height: 48px;
+  color: var(--color-slategray-100);
+}
+.rectangle37 {
+  position: absolute;
+  top: 4184px;
+  left: 318px;
+  border-radius: var(--br-5xs);
+  border: 2px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  width: 159px;
+  height: 61px;
+}
+.rectangle38 {
+  position: absolute;
+  top: 3895px;
+  left: 865px;
+  background-color: #444243;
+  width: 600px;
+  height: 415px;
+}
+.rectangle39 {
+  position: absolute;
+  top: 4184px;
+  left: 1097px;
+  border-radius: var(--br-5xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 168px;
+  height: 61px;
+}
+.donateBitcoinEthereum1,
+.join,
+.partnerAsA3,
+.register3,
+.registerYourProject,
+.tapIntoThe {
+  position: absolute;
+  top: 3956px;
+  left: 220px;
+  font-size: var(--font-size-10xl);
+  line-height: 39px;
+  font-family: var(--font-poppins);
+  color: var(--color-darkslateblue);
+  text-align: center;
+  display: inline-block;
+  width: 375px;
+}
+.donateBitcoinEthereum1,
+.join,
+.partnerAsA3,
+.register3,
+.tapIntoThe {
+  top: 4018px;
+  left: 194px;
+  font-size: var(--font-size-mid);
+  line-height: 28.8px;
+  width: 427px;
+}
+.donateBitcoinEthereum1,
+.join,
+.partnerAsA3,
+.register3 {
+  top: 4201px;
+  left: 333px;
+  font-size: var(--font-size-base);
+  line-height: 27.2px;
+  width: 122px;
+}
+.donateBitcoinEthereum1,
+.join,
+.partnerAsA3 {
+  top: 3965px;
+  left: 1008px;
+  font-size: var(--font-size-10xl);
+  line-height: 39px;
+  color: var(--color-white);
+  width: 335px;
+}
+.donateBitcoinEthereum1,
+.join {
+  top: 4038px;
+  left: 943px;
+  font-size: var(--font-size-mid);
+  line-height: 28.8px;
+  width: 427px;
+}
+.join {
+  top: 4201px;
+  left: 1123px;
+  font-size: var(--font-size-base);
+  line-height: 27.2px;
+  width: 124px;
+}
+.frameIcon9 {
+  position: absolute;
+  top: 4687px;
+  left: 1142px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.about7 {
+  position: absolute;
+  top: 4420px;
+  left: 575px;
+  line-height: 27px;
+  display: inline-block;
+  width: 50px;
+}
+.currentFunds3 {
+  top: 4459px;
+  left: 575px;
+  width: 116px;
+}
+.contact3,
+.currentFunds3,
+.impact3,
+.partnerships3,
+.weSpendA4 {
+  position: absolute;
+  line-height: 27px;
+  display: inline-block;
+}
+.partnerships3 {
+  top: 4499px;
+  left: 575px;
+  font-size: var(--font-size-mid);
+  width: 101px;
+}
+.contact3,
+.impact3,
+.weSpendA4 {
+  top: 4536px;
+  left: 577px;
+  width: 56px;
+}
+.contact3,
+.weSpendA4 {
+  top: 4608px;
+  left: 575px;
+  width: 64px;
+}
+.weSpendA4 {
+  top: 1551px;
+  left: 131px;
+  line-height: 24px;
+  color: var(--color-white);
+  text-align: center;
+  width: 286px;
+  height: 69px;
+}
+.homepage {
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  width: 100%;
+  height: 5048px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}

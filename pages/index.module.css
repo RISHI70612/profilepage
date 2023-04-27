@@ -1,0 +1,289 @@
+@keyframes shadow-inset-center {
+  0% {
+    box-shadow: inset 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: inset 0 0 14px 0 rgb(0 0 0/50%);
+  }
+}
+.frameIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 130px;
+  overflow: hidden;
+}
+.projectTitle1 {
+  position: absolute;
+  top: 17px;
+  left: 30px;
+  line-height: 31.8px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1005px;
+  height: 85px;
+}
+.projectTitle {
+  position: absolute;
+  top: 169px;
+  left: 153px;
+  width: 1099px;
+  height: 133px;
+  overflow: hidden;
+}
+.arifHasanH9mfenexvi4UnsplasIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 352px;
+  height: 265px;
+  object-fit: cover;
+}
+.arifHasanH9mfenexvi4UnsplasWrapper {
+  position: absolute;
+  top: 88px;
+  left: 277px;
+  border-radius: var(--br-6xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 354px;
+  height: 267px;
+  overflow: hidden;
+}
+.campaignStory {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  letter-spacing: 1.2px;
+  line-height: 28.8px;
+  text-transform: uppercase;
+  display: flex;
+  font-weight: 200;
+  align-items: center;
+  justify-content: center;
+  width: 646px;
+  height: 99px;
+}
+.campaignStoryWrapper {
+  position: absolute;
+  top: 0;
+  left: 49px;
+  width: 680px;
+  height: 112px;
+  overflow: hidden;
+}
+.iHopeThis {
+  margin: 0;
+}
+.iHopeThisContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.iHopeThisContainer {
+  position: absolute;
+  top: 103px;
+  left: 23px;
+  letter-spacing: 1.2px;
+  line-height: 28.8px;
+  text-transform: uppercase;
+  display: flex;
+  font-weight: 200;
+  color: var(--color-black);
+  align-items: center;
+  width: 824px;
+  height: 501px;
+}
+.frameParent {
+  top: 369px;
+  left: 35px;
+  width: 850px;
+  height: 604px;
+  overflow: hidden;
+}
+.frameParent,
+.raised,
+.story {
+  position: absolute;
+}
+.story {
+  top: 301px;
+  left: 12px;
+  border-radius: var(--br-6xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 919px;
+  height: 1005px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+  color: #8ab61e;
+}
+.raised {
+  border: 0;
+  background-color: transparent;
+  top: 0.4px;
+  left: 0.4px;
+  width: 12px;
+  height: 30px;
+}
+.raisedOf,
+.target {
+  position: absolute;
+  width: 77px;
+  height: 24px;
+}
+.raisedOf {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.17px;
+  line-height: 23.76px;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.target {
+  top: 3px;
+  left: 164px;
+}
+.collectionChild,
+.collectionItem {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 21px;
+  width: 132px;
+  height: 27px;
+  overflow: hidden;
+}
+.collectionItem {
+  top: 3px;
+  left: 239px;
+  width: 119px;
+  height: 24px;
+}
+.collection {
+  position: absolute;
+  top: 40px;
+  left: 11px;
+  width: 358px;
+  height: 30px;
+}
+.progressBar {
+  width: 358.79998779296875px;
+  position: absolute;
+  top: 65.8px;
+  left: 10.6px;
+}
+.collectionParent {
+  position: absolute;
+  top: 18px;
+  left: 32px;
+  width: 379px;
+  height: 115px;
+  overflow: hidden;
+}
+.rectangle {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-lightsteelblue);
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 7.200000762939453px 16.8px rgba(0, 0, 0, 0.1);
+  width: 284.4px;
+  height: 60px;
+}
+.donateNow {
+  position: absolute;
+  top: 14.4px;
+  left: 49.6px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 6px;
+  line-height: 31.2px;
+  font-family: var(--font-roboto);
+  color: #393939;
+  text-align: center;
+  display: inline-block;
+  width: 193px;
+}
+.aashaHeading1ButtonCta {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 165px;
+  left: calc(50% - 141.5px);
+  border-radius: 5px;
+  width: 284px;
+  height: 60px;
+  overflow: hidden;
+}
+.aashaHeading1ButtonCta:hover {
+  background-color: var(--color-lightskyblue);
+  box-shadow: 0 4px 4px rgba(100, 171, 211, 0.25);
+  animation: 3s ease 0s infinite normal none shadow-inset-center;
+  opacity: 1;
+}
+.followThisCampaign,
+.rectangle1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.rectangle1 {
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-lightskyblue);
+}
+.followThisCampaign {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.primaryButton {
+  position: absolute;
+  top: 316px;
+  left: 106px;
+  border-radius: 50px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  font-size: 12px;
+  color: #363636;
+  font-family: var(--font-inter);
+}
+.frameGroup {
+  position: absolute;
+  top: 302px;
+  left: 982px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 411px;
+  height: 489px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16.8px;
+  color: var(--color-darkslategray-400);
+}
+.profilePage {
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  width: 100%;
+  height: 1343px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 32px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
